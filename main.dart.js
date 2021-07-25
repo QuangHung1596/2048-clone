@@ -51899,7 +51899,7 @@ o=D.qk(r,M.da(r,r,r,new S.d9(r,new X.y1(new L.pg("./assets/images/avatar_"+this.
 n=T.dN(r,10,r)
 p=S.pq(r,b.ac(p).f.a.b/3)
 s=P.ao(46,0,0,0)
-s=H.a([o,n,new T.hu(p,V.a7K(new T.dz(C.ni,T.q8(L.ey("Cloned by Phuong Nam\nVersion: 1.2",A.cX(r,r,C.j,r,C.f,r,r,r,"Manrope",r,r,r,r,C.hs,r,r,!0,r,r,r,r,r,r,r),C.bS),C.fI),r),s,r,r,r),r),T.dN(r,10,r)],t.E)
+s=H.a([o,n,new T.hu(p,V.a7K(new T.dz(C.ni,T.q8(L.ey("Cloned by Phuong Nam\nVersion: 1.3.0",A.cX(r,r,C.j,r,C.f,r,r,r,"Manrope",r,r,r,r,C.hs,r,r,!0,r,r,r,r,r,r,r),C.bS),C.fI),r),s,r,r,r),r),T.dN(r,10,r)],t.E)
 if(K.bJ(b).O!==C.O){p=L.OJ(C.nD,new P.t(4287940096),28)
 o=L.ey("For Android (.apk)",A.cX(r,r,C.j,r,r,r,r,r,r,r,r,16,r,r,r,r,!0,r,r,r,r,r,r,r),r)
 s.push(new U.I3(this.gRx(),r,r,C.C,r,!1,new U.I4(o,p,r),r))}return M.da(r,T.xM(s,C.be,C.cl),r,new S.d9(r,r,r,r,r,new T.hP(C.cO,C.cN,C.b_,q,r,r),C.S),1/0,r,r,1/0)}}
